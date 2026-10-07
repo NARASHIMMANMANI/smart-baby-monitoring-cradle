@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+Baby Cry Set/
+Clean Baby Cry Dataset/
+External Dataset/
+
+# Generated reports / files
+*.csv
+*.pkl
+*.joblib
+
+# Backup files
+*_backup_*.py
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
